@@ -6,7 +6,7 @@ Vagrant.configure("2") do |config|
     config.vm.network "public_network"
     config.vm.network "forwarded_port", guest: 80, host: 8070
     config.vm.provision "shell", path: "script.sh"
-    config.vm.synced_folder "src/", "/var/www/html"
+    config.vm.synced_folder "site/", "/var/www/html"
 
 
 
