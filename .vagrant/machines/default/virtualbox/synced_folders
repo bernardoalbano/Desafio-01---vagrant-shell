@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/abernardo/Documents/Vagrant/desafio01-vagrant-shell/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/abernardo/Documents/Vagrant/desafio01-vagrant-shell","disabled":false,"__vagrantfile":true}}}
